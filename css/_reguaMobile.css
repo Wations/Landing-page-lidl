@@ -1,0 +1,66 @@
+.reguaMobile {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f7ea26; }
+  .reguaMobile .sitiosMobile {
+    display: inline-block;
+    width: 579px;
+    font-size: 0;
+    text-align: left;
+    position: relative;
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    margin: 200px 0 0 80px; }
+    .reguaMobile .sitiosMobile .cidades {
+      display: inline-block;
+      -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      transform: rotate(90deg); }
+      .reguaMobile .sitiosMobile .cidades .franca {
+        width: 37px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades .pizza {
+        width: 39px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades .brasil {
+        width: 51px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades .usa {
+        width: 24px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades .india {
+        width: 56px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades .marte {
+        width: 60px;
+        height: 60px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(3) {
+        margin-left: 25px;
+        margin-right: 20px;
+        width: 37px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(4) {
+        margin-right: 12px;
+        width: 39px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(5) {
+        margin-right: 20px;
+        width: 51px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(6) {
+        margin-right: 22px;
+        width: 24px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(8) {
+        margin-right: 48px;
+        width: 56px;
+        height: 50px; }
+      .reguaMobile .sitiosMobile .cidades:nth-child(10) {
+        width: 48px;
+        height: 50px; }
+    .reguaMobile .sitiosMobile .none {
+      width: 51px;
+      height: 50px;
+      background-color: transparent; }
